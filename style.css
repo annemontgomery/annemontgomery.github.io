@@ -48,3 +48,21 @@ section {
   padding: 24px 0;
   boder-bottom: 1px solid lightgrey;
 }
+
+section:last-child {
+  border-bottom: none;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+img.avatar {
+  width: 130px;
+}
+
+.my-name {
+  font-size: 48px;
+  line-height: 1;
+}
