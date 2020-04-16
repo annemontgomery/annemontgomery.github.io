@@ -1,6 +1,13 @@
 html {
   box-sizing: border-box;
 }
-*, *: before, *: after {
-  box-sizing:inherit;
+*, *: before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.5;
+  background: #F2F2F2;
+  color: #323232;
 }
