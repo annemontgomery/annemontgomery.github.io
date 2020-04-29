@@ -109,6 +109,10 @@ img.avatar {
   line-height: 1.2;
 }
 
+.job-date {
+  text-align: right;
+}
+
 .skills-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
